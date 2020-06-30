@@ -1,6 +1,6 @@
 module.exports = {
-  title: "vuepress-theme-reco",
-  description: "A simple and beautiful vuepress blog theme .",
+  title: "James's Blog",
+  description: "",
   base: "/jamesBlog/",
   repo: "https://github.com/a9261020/jamesBlog",
   dest: "public",
@@ -75,7 +75,7 @@ module.exports = {
     // 最后更新时间
     lastUpdated: "Last Updated",
     // 作者
-    author: "reco_luan",
+    author: "James",
     // 作者头像
     authorAvatar: "/avatar.png",
     // 备案号
