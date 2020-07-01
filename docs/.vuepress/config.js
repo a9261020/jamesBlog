@@ -20,9 +20,12 @@ module.exports = {
       { text: "Home", link: "/", icon: "reco-home" },
       { text: "TimeLine", link: "/timeline/", icon: "reco-date" },
       {
-        text: "Docs",
+        text: "Series",
         icon: "reco-message",
-        items: [{ text: "vuepress-reco", link: "/theme-reco/" }],
+        items: [
+          { text: "JavaScript30", link: "/Series/JavaScript30/" },
+          { text: "金魚腦", link: "/Series/金魚腦/" },
+        ],
       },
       {
         text: "Contact",
@@ -37,7 +40,8 @@ module.exports = {
       },
     ],
     sidebar: {
-      "/theme-reco/": ["Hello", "theme", "plugin", "api"],
+      "/Series/JavaScript30/": ["01 Drum Kit"],
+      "/Series/金魚腦/": ["01 圖文滿版區塊", "02 互動圖文卡片"],
     },
     type: "blog",
     // 博客设置
