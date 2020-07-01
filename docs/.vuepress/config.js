@@ -3,7 +3,7 @@ module.exports = {
   description: "",
   base: "/jamesBlog/",
   repo: "https://github.com/a9261020/jamesBlog",
-  dest: "public",
+  dest: "dist",
   head: [
     ["link", { rel: "icon", href: "/favicon.ico" }],
     [
