@@ -22,7 +22,7 @@ module.exports = {
       {
         text: "Docs",
         icon: "reco-message",
-        items: [{ text: "vuepress-reco", link: "/docs/theme-reco/" }],
+        items: [{ text: "vuepress-reco", link: "/theme-reco/" }],
       },
       {
         text: "Contact",
@@ -37,7 +37,7 @@ module.exports = {
       },
     ],
     sidebar: {
-      "/docs/theme-reco/": ["", "theme", "plugin", "api"],
+      "/theme-reco/": ["Hello", "theme", "plugin", "api"],
     },
     type: "blog",
     // 博客设置
