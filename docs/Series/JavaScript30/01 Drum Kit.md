@@ -2,12 +2,10 @@
 title: 01 Drum Kit
 date: 2020-06-30
 tags:
+  - JavaScript
   - CSS
 categories:
-  - JavaScript 30
+  - 前端
 ---
 
-## JS 30
-
-abc
-33456789
+## 01 Drum kit

@@ -83,9 +83,10 @@ module.exports = {
     // 作者头像
     authorAvatar: "/avatar.png",
     // 备案号
-    record: "xxxx",
+    record: "Github",
+    recordLink: "https://github.com/a9261020",
     // 项目开始时间
-    startYear: "2017",
+    startYear: "2020",
     /**
      * 密钥 (if your blog is private)
      */
