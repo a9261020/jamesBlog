@@ -1,5 +1,5 @@
 ---
-title: video介紹
+title: Html-video介紹
 date: 2020-07-25
 tags:
   - Front-end
@@ -38,7 +38,7 @@ categories:
 
 ## 特別的 Bug(?)
 
-目前的 chrome 因為瀏覽器本身的關係，靜止自動播放有音樂的影片，所以如果要自動播方的話一定要加上 muted，才有辦法自動播放。
+目前的 chrome 因為瀏覽器本身的關係，靜止自動播放有音樂的影片，所以如果要自動播放的話一定要加上 muted，才有辦法自動播放。
 
 > 引用資料：  
 > [解決 chrome 無法自動播放](http://www.nooong.com/docs/chrome_video_autoplay.htm)  
