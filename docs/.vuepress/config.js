@@ -16,6 +16,13 @@ module.exports = {
   ],
   theme: "reco",
   themeConfig: {
+    vssueConfig: {
+      platform: "github",
+      owner: "a9261020",
+      repo: "jamesBlog",
+      clientId: "c0c7421d06a1607b1b39",
+      clientSecret: "6eda094eea6baa19da4a8e61680971e0d3995bbc",
+    },
     nav: [
       { text: "Home", link: "/", icon: "reco-home" },
       { text: "TimeLine", link: "/timeline/", icon: "reco-date" },
