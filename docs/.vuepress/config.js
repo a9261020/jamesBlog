@@ -47,7 +47,14 @@ module.exports = {
       },
     ],
     sidebar: {
-      "/blogs/": ["打包工具-Gulp", "CSS-文字換行、空白換行", "Html-video介紹","Html-SEO 概念"],
+      "/blogs/": [
+        "工具-Gulp",
+        "工具-Webpack 基礎設定",
+        "工具-Webpack module編譯",
+        "Html-video介紹",
+        "Html-SEO 概念",
+        "CSS-文字換行、空白換行",
+      ],
       "/Series/JavaScript30/": ["01 Drum Kit"],
       "/Series/金魚腦/": [
         "01-圖文滿版區塊",

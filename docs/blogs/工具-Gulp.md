@@ -1,15 +1,16 @@
 ---
-title: 打包工具-Gulp
+title: 工具-Gulp
 date: 2020-07-23
 tags:
   - Front-end
+  - 工具
 categories:
   - 前端
 ---
 
 ## Gulp 是什麼？
 
-Gulp 是一個前端任務管理工具
+Gulp 是一個前端任務自動化工具
 
 ## 用了可以得到什麼
 
@@ -29,7 +30,7 @@ Gulp 是一個前端任務管理工具
 
 - 安裝 NODE、NPM 環境 [按我下載](https://nodejs.org/en/)
 
-2.安裝 Gulp
+  2.安裝 Gulp
 
 - 到終端機輸入
 
