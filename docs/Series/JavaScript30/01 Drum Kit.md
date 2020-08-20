@@ -64,7 +64,7 @@ element.currentTime = 0;
 將 currentTime  設為  0  是達到可以連續播放的效果
 
 ## keyup、keydown、keypress 的差異
-
+    
     keydown (不會區分大小寫，可以拿特殊案件)
 
 - 監聽鍵盤壓下去的那瞬間
@@ -87,3 +87,11 @@ element.currentTime = 0;
 
 - 監聽鍵盤放開的那瞬間，不會有連續的狀況發生
 - 取得的東西基本上跟  keydown  一樣，**只有在  keyup  上可以取的  input  的最新資料**。
+
+如果我們針對同個元素同時綁定了這三個鍵盤事件，那麼這三個事件執行的順序會是：
+
+1. keydown
+
+2. keypress
+
+3. keyup  
