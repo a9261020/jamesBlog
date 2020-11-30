@@ -55,6 +55,7 @@ module.exports = {
         "Html-SEO 概念",
         "CSS-文字換行、空白換行",
         "前端-優化",
+        "JS-Optional Chaining 和 Nullish Coalescing",
       ],
       "/Series/JavaScript30/": ["01 Drum Kit"],
       "/Series/金魚腦/": [
