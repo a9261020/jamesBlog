@@ -54,6 +54,7 @@ module.exports = {
         "Html-video介紹",
         "Html-SEO 概念",
         "CSS-文字換行、空白換行",
+        "CSS-五個小技巧",
         "前端-優化",
         "JS-Optional Chaining 和 Nullish Coalescing",
         "JS-valueAsNumber",
