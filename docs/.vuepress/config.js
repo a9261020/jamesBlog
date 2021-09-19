@@ -58,7 +58,8 @@ module.exports = {
         "前端-優化",
         "JS-Optional Chaining 和 Nullish Coalescing",
         "JS-valueAsNumber",
-        "JS-Set & tabindex"
+        "JS-Set & tabindex",
+        "Canvas-toast-ui.vue-image-editor",
       ],
       "/Series/JavaScript30/": ["01 Drum Kit"],
       "/Series/金魚腦/": [
