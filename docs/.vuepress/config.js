@@ -49,7 +49,7 @@ module.exports = {
     sidebar: {
       "/blogs/": [
         "工具-Gulp",
-        "工具-Webpack 基礎設定",
+        "工具-Webpack 基礎設定",
         "工具-Webpack module編譯",
         "Html-video介紹",
         "Html-SEO 概念",
