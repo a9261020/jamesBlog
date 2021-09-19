@@ -60,6 +60,7 @@ module.exports = {
         "JS-valueAsNumber",
         "JS-Set & tabindex",
         "Canvas-toast-ui.vue-image-editor",
+        "Safari-bf cache"
       ],
       "/Series/JavaScript30/": ["01 Drum Kit"],
       "/Series/金魚腦/": [
